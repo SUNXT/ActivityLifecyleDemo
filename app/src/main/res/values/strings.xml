@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityLifecycleDemo</string>
+
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="activity_c">Activity C</string>
+    <string name="go_activity_b">启动B Activity</string>
+    <string name="go_activity_a">启动A Activity</string>
+    <string name="go_activity_c">启动C Activity</string>
+</resources>
